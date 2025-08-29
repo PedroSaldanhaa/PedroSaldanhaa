@@ -45,7 +45,7 @@ Descrição   | Instituição   | Ano | Tipo
 📚 Web Programming with Python and JavaScript | Harvard University X | 2025 | Curso
 📚 UX/UI designer | Alura | 2025 | Curso
 
-## 💬 Conatato 
+## 💬 Contato 
   
 <div> 
  
