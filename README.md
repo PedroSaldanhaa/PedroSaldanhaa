@@ -54,7 +54,7 @@ Descrição   | Instituição   | Ano | Tipo
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/PedroSaldanhaa">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroSaldanhaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSaldanhaa&layout=compact&langs_count=7&theme=dark"/>
