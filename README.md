@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
-📚 Análise e Desenvolvimento de Sistemas (ADS)™️ | FIAP | 2024 | Certificação
+📚 Análise e Desenvolvimento de Sistemas (ADS)™️ | FIAP | 2024 | Graduação
 📚 Web Programming with Python and JavaScript | Harvard University X | 2025 | Curso
 📚 UX/UI designer | Alura | 2025 | Curso
 
